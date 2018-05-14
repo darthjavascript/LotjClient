@@ -16,6 +16,11 @@ MUSHclient is a Windows application, but can also run on Linux or Mac using WINE
 - You can type "**client help**" to get an introductory help screen that will explain various plugins and also reference help commands for a specific plugin. (*These plugins were written by different people and are not necessarily uniform*)
 
 ## Change Log
+- 2018/05/14 (bagz/darthjs)
+  - Added a couple plugins to help screen readers use LotjClient 
+  - Changed a few default configs to be by default less cluttered for screen readers.
+
+These are all Xavious:
 - 2017/05/27
   - Updated several of Johnson's plugins that were out of sync with his repository
   - Updated state data for the galaxy map to reflect the current timeline

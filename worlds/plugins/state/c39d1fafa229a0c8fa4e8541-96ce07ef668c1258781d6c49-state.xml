@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!DOCTYPE muclient>
-<!-- Saved on Thursday, January 14, 2016, 6:05 PM -->
+<!-- Saved on Monday, May 14, 2018, 7:23 PM -->
 <!-- MuClient version 4.94 -->
 <!-- Written by Nick Gammon -->
 <!-- Home Page: http://www.mushclient.com/ -->
@@ -14,11 +14,11 @@
 <variables
    muclient_version="4.94"
    world_file_version="15"
-   date_saved="2016-01-14 18:05:41"
+   date_saved="2018-05-14 19:23:33"
   >
-  <variable name="WINDOW_HEIGHT">131</variable>
+  <variable name="WINDOW_HEIGHT">253.2</variable>
   <variable name="WINDOW_NAME">OOC Log</variable>
-  <variable name="WINDOW_WIDTH">657</variable>
+  <variable name="WINDOW_WIDTH">855</variable>
   <variable name="channels_table">channels_table = {}
   channels_table.Newbie = {}
     channels_table.Newbie.capture = true
@@ -53,7 +53,7 @@
   <variable name="log_to_file">0</variable>
   <variable name="mw_96ce07ef668c1258781d6c49_windowflags">2</variable>
   <variable name="mw_96ce07ef668c1258781d6c49_windowmode">0</variable>
-  <variable name="mw_96ce07ef668c1258781d6c49_windowx">710</variable>
+  <variable name="mw_96ce07ef668c1258781d6c49_windowx">992</variable>
   <variable name="mw_96ce07ef668c1258781d6c49_windowy">0</variable>
   <variable name="newbie_echo">1</variable>
   <variable name="ooc_echo">1</variable>

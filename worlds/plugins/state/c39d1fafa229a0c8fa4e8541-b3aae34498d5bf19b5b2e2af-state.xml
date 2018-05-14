@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!DOCTYPE muclient>
+<!-- Saved on Monday, May 14, 2018, 7:23 PM -->
 <!-- MuClient version 4.94 -->
 <!-- Written by Nick Gammon -->
 <!-- Home Page: http://www.mushclient.com/ -->
@@ -13,6 +14,7 @@
 <variables
    muclient_version="4.94"
    world_file_version="15"
+   date_saved="2018-05-14 19:23:33"
   >
   <variable name="AC">LTUw</variable>
   <variable name="AFFECTS"></variable>

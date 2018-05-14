@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE muclient>
+<!-- Saved on Monday, May 14, 2018, 7:03 PM -->
+<!-- MuClient version 4.77 -->
+<!-- Written by Nick Gammon -->
+<!-- Home Page: http://www.mushclient.com/ -->
+
+<!-- Plugin state saved. Plugin: "mcBass". World: "Legends of the Jedi". -->
+
+<muclient>
+
+<!-- variables -->
+
+<variables
+   muclient_version="4.77"
+   world_file_version="15"
+   date_saved="2018-05-14 19:03:22"
+  >
+  <variable name="vol">100</variable>
+</variables>
+</muclient>

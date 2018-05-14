@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE muclient>
+<!-- Saved on Saturday, June 04, 2011, 6:59 AM -->
+<!-- MuClient version 4.73 -->
+<!-- Written by Nick Gammon -->
+<!-- Home Page: http://www.mushclient.com/ -->
+
+<!-- Plugin state saved. Plugin: "mcBass". World: "aardwolf". -->
+
+<muclient>
+
+<!-- variables -->
+
+<variables
+   muclient_version="4.73"
+   world_file_version="15"
+   date_saved="2011-06-04 06:59:55"
+  >
+  <variable name="vol">100</variable>
+</variables>
+</muclient>

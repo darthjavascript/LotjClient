@@ -5,7 +5,7 @@
 <!-- Written by Nick Gammon -->
 <!-- Home Page: http://www.mushclient.com/ -->
 
-<!-- Plugin state saved. Plugin: "LotJFlight". World: "Legends of the Jedi". -->
+<!-- Plugin state saved. Plugin: "MushReader". World: "Legends of the Jedi". -->
 
 <muclient>
 
@@ -16,6 +16,5 @@
    world_file_version="15"
    date_saved="2018-05-14 19:23:33"
   >
-  <variable name="landPref">landPref = {}</variable>
 </variables>
 </muclient>
